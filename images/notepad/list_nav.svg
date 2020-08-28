@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="682.66669"
+   viewBox="0 0 511.99999 511.99999"
+   width="682.66669"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="list_nav.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     fit-margin-bottom="0"
+     fit-margin-right="0"
+     fit-margin-left="0"
+     fit-margin-top="0"
+     lock-margins="false"
+     inkscape:document-rotation="0"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     id="namedview6"
+     showgrid="false"
+     units="px"
+     inkscape:zoom="0.29406678"
+     inkscape:cx="341.33335"
+     inkscape:cy="341.33335"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4" />
+  <path
+     d="M 452,512 H 60 C 26.914062,512 0,485.08594 0,452 V 60 C 0,26.914062 26.914062,0 60,0 h 392 c 33.08594,0 60,26.914062 60,60 v 392 c 0,33.08594 -26.91406,60 -60,60 z M 60,40 C 48.972656,40 40,48.972656 40,60 v 392 c 0,11.02734 8.972656,20 20,20 h 392 c 11.02734,0 20,-8.97266 20,-20 V 60 C 472,48.972656 463.02734,40 452,40 Z M 430.89844,151.34375 401.09766,124.65625 216.13281,331.22266 108.78125,229.17578 81.222656,258.16406 218.44141,388.60938 Z m 0,0"
+     id="path2" />
+</svg>

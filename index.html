@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="styles/reset/reset.css" rel="stylesheet" type="text/css">
+    <link href="styles/notepad/style.css" rel="stylesheet" type="text/css">
+    <script src="scripts/notepad/notepad-en.js"></script>
+    <title>Notepad</title>
+</head>
+<body>
+    <div class="wrapper">
+        <div class="wrapper__container">
+            <header class="header">
+                <div class="header__container">
+                    <div class="intro">
+                        <img src="images/notepad/notepad_logo.svg" alt="Notepad Logotip">
+                        <a href="https://notepad-plus-plus.org/" target="_blank">Перейти к скачиванию</a>
+                    </div>
+                    <nav class="nav">
+                        <div class="nav__container">
+                            <ul class="nav_list">
+                                <li>
+                                    <a href="index.html">Главная</a>
+                                </li>
+                                <li>
+                                    <a href="#">Преимущества</a>
+                                </li>
+                                <li>
+                                    <button type="button" onclick="LangText(this)">Язык: Русский</button>
+                                </li>
+                                <li>
+                                    <button type="button" onclick="StyleBackground(this)">Фон: Светлый</button>
+                                </li>
+                            </ul>
+                        </div>
+                    </nav>
+                    <div class="advertising-1">
+                        <div class="advertising-1__container">
+                            <a href="#" target="_blank">
+                                <img src="images/notepad/advertising.jpg" alt="Advertising">
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </header>
+            <div class="content">
+                <div class="content__container">
+                    <article class="article">
+                        <div class="article__container">
+                            <h1>Что такое Notepad ++</h1>
+                            <p class="ru">Notepad++ — свободный текстовый редактор с открытым исходным кодом для Windows с подсветкой синтаксиса, разметки, а также языков описания аппаратуры VHDL и Verilog.</p>
+                            <p class="en">Notepad ++ - free open source text editor for Windows with syntax highlighting, markup, VHDL and Verilog hardware description languages</p>
+                            <p>Базируется на компоненте Scintilla, написан на C++ с использованием STL, а также Windows API и распространяется под лицензией GNU General Public License. Базовая функциональность программы может быть расширена как за счёт плагинов, так и сторонних модулей, таких как компиляторы и препроцессоры. Поддерживает открытие более 100 форматов.</p>
+                            <h2>История</h2>
+                            <p>В сентябре 2003 года инженер-программист Дон Хо (Don Ho) создал прототип Notepad++ на базе Scintilla (C++). Он являлся альтернативой редактору (Java), над которым работал Дон Хо в компании JEXT. Однако более производительное решение на C++ в компании принято не было.</p>
+                            <p>25 ноября 2003, после 2-3 месяцев разработки в свободное от работы время, код Notepad++ было выложен на SourceForge. Он был скачан (по состоянию на 23 июля 2015 года) более 29 миллионов раз.</p>
+                            <p>В 2007 году Notepad++ стал доступен не только на Windows, но также появились кросс-платформенные версии для Mac OS X и Linux (Ubuntu).</p>
+                            <p>После событий января 2010 года на Notepad++ переместился на собственный сайт http://notepad-plus-plus.org.</p>
+                            <h2>Версии программы</h2>
+                            <p>Программа поставляется в двух версиях: UNICODE и ANSI, причём последний вариант доступен только при ручной распаковке архива. Плагины могут быть написаны под определённую версию программы, но чаще плагин работает в обеих версиях, хотя в последнее время акцент делается на UNICODE-версию, как наиболее перспективную.</p>
+                            <p>Для linux программа работает через wine, доступна через набор программ в winetricks, альтернативно подобную функциональность могут дать kate или notepadqq.</p>
+                        </div>
+                    </article>
+                    <footer class="footer">
+                        <div class="footer__contaier">
+                            <address class="address">
+                                <h2>Virtual World</h2>
+                            </address>
+                        </div>
+                    </footer>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
